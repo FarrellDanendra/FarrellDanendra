@@ -1,4 +1,3 @@
-# 💫 About Me:
 ![Sasuke Uchiha](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxwN2l2d3Z4aGh3OHl0ZGNoenBsNWwydTZlMndkMzdxcW12cWF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ik7JzGmIGCnde/giphy.gif)
 
 👋 Hi, I’m Farrell Danendra<br>💻 I’m passionate about Web Development and Software Engineering<br>🚀 Currently exploring Laravel, PHP, and JavaScript<br>📚 Always learning and open to collaboration on exciting projects<br>🎯 Goal: Becoming a Fullstack Developer and building impactful digital products
